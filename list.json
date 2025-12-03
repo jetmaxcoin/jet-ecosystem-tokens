@@ -1,0 +1,30 @@
+{
+  "name": "Jet Ecosystem List",
+  "timestamp": "2025-12-03T16:46:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://github.com/jetmaxcoin/jet-ecosystem-tokens/logo/jetmax.png",
+  "keywords": ["jetmax", "default", "pancake"],
+  "tokens": [
+    {
+      "name": "JET MAX",
+      "symbol": "JET",
+      "address": "0x7847bffd0eb96c53a96af526643e2546efec0828",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://github.com/jetmaxcoin/jet-ecosystem-tokens/logo/jetmax.png"
+    },
+    {
+      "name": "Jet USD",
+      "symbol": "JETUSD",
+      "address": "0x61107715903b52c1f4191ef90b3b9e21748af41f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://github.com/jetmaxcoin/jet-ecosystem-tokens/logo/jetusd.png"
+    }
+  ]
+}
