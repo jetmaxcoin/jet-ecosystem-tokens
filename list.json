@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://github.com/jetmaxcoin/jet-ecosystem-tokens/logo/jetmax.png",
+  "logoURI": "https://raw.githubusercontent.com/jetmaxcoin/jet-ecosystem-tokens/main/logo/jetmax.png",
   "keywords": ["jetmax", "default", "pancake"],
   "tokens": [
     {
@@ -16,7 +16,7 @@
       "address": "0x7847bffd0eb96c53a96af526643e2546efec0828",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://github.com/jetmaxcoin/jet-ecosystem-tokens/logo/jetmax.png"
+      "logoURI": "https://raw.githubusercontent.com/jetmaxcoin/jet-ecosystem-tokens/main/logo/jetmax.png"
     },
     {
       "name": "Jet USD",
@@ -24,7 +24,7 @@
       "address": "0x61107715903b52c1f4191ef90b3b9e21748af41f",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://github.com/jetmaxcoin/jet-ecosystem-tokens/logo/jetusd.png"
+      "logoURI": "https://raw.githubusercontent.com/jetmaxcoin/jet-ecosystem-tokens/main/logo/jetusd.png"
     }
   ]
 }
