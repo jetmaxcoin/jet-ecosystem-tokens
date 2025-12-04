@@ -35,6 +35,6 @@
       accent: "from-amber-300 to-orange-500",
       isNative: true,
       logoURI: "https://raw.githubusercontent.com/jetmaxcoin/jet-ecosystem-tokens/main/logo/bnb.png",
-    },
+    }
   ]
 }
