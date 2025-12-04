@@ -27,14 +27,12 @@
       "logoURI": "https://raw.githubusercontent.com/jetmaxcoin/jet-ecosystem-tokens/main/logo/jetusd.png"
     },
     {
-      symbol: "BNB",
-      name: "BNB",
-      address: "0x0000000000000000000000000000000000000000",
-      decimals: 18,
-      chainId: bsc.id,
-      accent: "from-amber-300 to-orange-500",
-      isNative: true,
-      logoURI: "https://raw.githubusercontent.com/jetmaxcoin/jet-ecosystem-tokens/main/logo/bnb.png",
+      "name": "BNB",
+      "symbol": "BNB",
+      "address": "0x0000000000000000000000000000000000000000",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/jetmaxcoin/jet-ecosystem-tokens/main/logo/bnb.png"
     }
   ]
 }
